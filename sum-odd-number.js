@@ -20,8 +20,6 @@ function sumOddNumberAnArray(numbers) {
             // console.log(index, element);
             array.push(element);
         }
-
-
     }
     return array;
 }
